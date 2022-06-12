@@ -9,7 +9,7 @@ set -e
     cmake --build .
     while getopts "t" flags; do
         case $flags in
-            t)
+            t) # Flag "-t" to tun tests
                 printf "\n\nRunning tests...\n\n"
                 ../build/test/test
                 ;;
