@@ -1,6 +1,6 @@
 # SystemC_SampleProject
 
-Simple Hello Wold example using [SystemC](https://github.com/accellera-official/systemc).
+Simple Hello Wold example using [SystemC](https://github.com/accellera-official/systemc) and [CMake](https://cmake.org/).
 
 It's recommended to clone this repo using the command `git clone --recurse-submodules https://github.com/StevenRojasC/SystemC_SampleProject.git`
 
